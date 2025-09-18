@@ -112,4 +112,4 @@ async def get_timezone(ctx, member: discord.Member = None):
         await ctx.send("No timezones have been set yet.")
 
 # Token should be stored in an environment variable or a separate config file
-bot.run('MTM3MzAwNDEzNzcyOTQ5NTA3MA.G1ahWn.erCpjH8mUMpdZIithpHlc9hlogc0J4HZV9Gcxg')
+bot.run('YOUR_TOKEN') #Your Token
